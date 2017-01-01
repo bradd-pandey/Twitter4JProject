@@ -1,0 +1,36 @@
+body {
+	margin: 5px;
+}
+
+.tweet-block {
+	width: 300px;
+	height: auto;
+	margin: 10px;
+	/* border: 1px solid gray; */
+	display: inline-block;
+}
+
+.tweet-contnet {
+	width: 300px;
+	height: auto;
+	margin: 10px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+#content-here {
+	margin : 0px auto;
+	width: 96%;
+}
+
+.navbar-right {
+   
+  margin-right: 10px!important;
+  margin-top: 12px;
+}
+
+.googleMap{
+	padding-left: 10px;
+	color : blue!important;
+}
